@@ -14,7 +14,7 @@ This project is an automatic headlight system built with an ESP32, two light sen
 - BH1750 digital light sensor  
 - TEMT6000 analog sensor  
 - SSD1306 OLED display  
-- 1 Channel 12V High Level Trigger Relay Module
+- 1 Channel 5V High Level Trigger Relay Module
 - 3.3V DC-DC converter  
 
 ## How It Works
